@@ -1,0 +1,11 @@
+tqdm
+numpy
+scipy
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+SimpleITK
+tensorboard
+nibabel
+timm
