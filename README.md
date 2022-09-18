@@ -21,6 +21,6 @@ pip install -r requirement.txt
 4. Train classification models (`train_seg.py`, `train_seg.py`, `train_seg.py`) on 2D slices.
    
 ### Model inference
-Segment and crop the validation data first (`pred_crop.py`), then run (`inference.py`)
+Segment and crop the validation data first (`pred_crop.py`), then run `inference.py`.
 
 
