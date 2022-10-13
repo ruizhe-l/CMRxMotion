@@ -2,7 +2,7 @@
 Code example for MICCAI2022 challenge CMRxMotion task 1 - Cardiac MRI motion artefacts classification
 
 
-Paper: Motion-related Artefacts Classification Using Patch-based Ensemble and Transfer Learning in Cardiac MRI
+Paper: Motion-related Artefact Classification Using Patch-based Ensemble and Transfer Learning in Cardiac MRI
 
 
 Challenge website: http://cmr.miccai.cloud/
